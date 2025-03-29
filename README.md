@@ -1,7 +1,7 @@
 # bytebeat-composer
 Live editing algorithmic music generator with a collection of many formulas from around the internet.
 
-Bytebeat Composer: https://dollchan.net/bytebeat/<br>
+Old version: https://bytebeat483-l.github.io/bytebeatplayer/<br>
 Discussion threads: https://dollchan.net/btb/
 
 ![Sierpinski triangles](https://github.com/user-attachments/assets/f8811437-c0d5-4f64-9ead-2fd621c18bb8)
